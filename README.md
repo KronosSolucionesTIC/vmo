@@ -1,18 +1,26 @@
-#Quick Order
+#VMO
 
-Aplicación para dispositivos móviles que permita la gestión de la información de un menú tradicional y realización de pedidos
+Requerimientos y prueba de desarrollo
 
-Autores
-Jairo Humberto Gómez Castillo 
-Sandra Paola Gil Beleño
+ 
 
-Docente
-Ing. José Solórzano Suarez
+Requisitos Generales
 
-Fundación de Educación Superior San José
+·        Evaluar implementación de librerías Bootstrap
 
-Facultad de ingeniería
-Programa Ingeniería de sistemas
-Ingeniería de software avanzado - SOA
-Bogotá, D.C.
-Abril 2019
+·        Evaluar forma de programación en PHP
+
+·        Evaluar implementación de Javascript
+
+Descripción de prueba: 
+Se requiere una página que capture los siguientes datos:
+
+·        Nombre
+
+·        e-mail
+
+·        departamento
+
+·        ciudad
+
+·        zona
