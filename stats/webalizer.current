@@ -1,0 +1,768 @@
+# Webalizer V2.23-08 Incremental Data - 05/06/2019 05:37:04
+2019 5 6 5 37 4
+2496 359 143 32 21 46 5506970 1734 152 0
+9 1 565 1 6
+586 0 117535 30 581 31
+829 86 1207199 24 627 24
+115 19 108775 32 58 29
+189 18 88664 28 146 27
+646 178 3055802 28 301 32
+131 58 928995 9 21 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+42 7 54520 18
+9 0 454 6
+116 0 24098 116
+106 40 856857 24
+72 30 463516 17
+3 0 635 3
+3 0 442 3
+10 0 1299 10
+679 0 140444 674
+8 0 1352 7
+117 0 23448 117
+5 0 226 5
+6 0 930 3
+591 12 514866 565
+12 1 10042 4
+3 0 0 3
+123 47 533608 20
+122 45 548320 21
+4 0 0 4
+19 4 29618 19
+102 32 149265 23
+281 122 2091951 42
+58 19 60663 25
+5 0 416 5
+0
+0
+0
+359
+0
+0
+0
+0
+0
+0
+0
+0
+146
+0
+126
+0
+0
+4
+0
+0
+0
+1853
+3
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/images/encuesta_icon.png
+1 13 26121262308864562 5152 0 0
+/css/estilos.css
+0 33 6989586621679009792 165225 0 0
+/images/tipo_cadena.png
+1 13 8314821609570512178 5568 0 0
+/images/icono_proceso@2x.png
+1 4 3615601267019952697 2960 0 0
+/images/kpi_icon@2x.png
+1 4 3546920061895704576 7508 0 0
+/images/compania.png
+1 13 7310593900982201455 4824 0 0
+/views/login/
+0 18 4050197510125728045 145181 0 2
+/images/kr_icon.png
+1 13 3905519376425102896 6464 0 0
+/css/jmenu.min.css
+0 31 38319264 53328 0 0
+/images/kpi_icon.png
+1 13 0 6208 0 0
+/images/btn_diagnostico.svg
+0 14 38404864 14022 0 0
+/images/fondo.jpg
+1 27 0 3761978 0 0
+/views/contact/new.php
+0 2 0 18693 0 0
+/views/diagnostico/
+0 9 0 74316 0 0
+/images/fondo_numeros.png
+1 16 0 5390 0 0
+/views/diagnostico/new.php
+0 20 0 253143 1 4
+/images/icono_contacto.svg
+0 2 0 2158 0 0
+/images/logo_bolivar.svg
+0 33 0 120744 0 0
+/images/aguas_arriba_icon@2x.png
+1 4 0 6488 0 0
+/images/btn_edit.svg
+0 14 38404992 11610 0 0
+/images/cadena.png
+1 13 0 5000 0 0
+/js/functions.js
+0 30 0 7766 0 0
+/images/aguas_abajo_icon.png
+1 13 0 5985 0 0
+/images/aguas_abajo_icon@2x.png
+1 4 0 6560 0 0
+/images/datos_empresa.svg
+0 11 0 8505 0 0
+/images/encuesta_icon@2x.png
+1 4 0 4484 0 0
+/misc/style.css
+0 37 0 12609 0 0
+/images/kr_icon@2x.png
+1 4 0 7696 0 0
+/views/inicio/
+0 30 0 211243 1 2
+/views/users/new.php
+0 17 0 159429 5 5
+/images/aguas_arriba_icon.png
+1 13 0 5272 0 0
+/images/icono_proceso.png
+1 13 0 3672 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201-49-236-179.spdlink.com.br
+0 1 0 0 1 1556964244
+-
+61.187.64.162
+0 1 0 210 1 1557040291
+-
+popken.xs4all.nl
+0 2 0 440 1 1557024379
+-
+128.199.201.144
+0 2 0 428 2 1556688341
+-
+36.91.44.53
+0 1 0 0 1 1556811992
+-
+mou34-2-88-166-0-177.fbx.proxad.net
+0 1 0 221 1 1556691106
+-
+216.84.133.82
+0 6 0 1356 1 1556920632
+-
+dynamic.pool-31-44-78-228.abissnet.al
+0 1 0 0 1 1557043661
+-
+13-150-150-201.halleytelecom.com.br
+0 1 0 0 1 1556923719
+-
+182.61.48.200
+0 6 0 1351 1 1556945580
+-
+152-250-97-136.user.vivozap.com.br
+0 1 0 0 1 1557017298
+-
+209.17.96.194
+0 1 0 0 1 1556816007
+-
+zg-0403-16.stretchoid.com
+0 1 0 0 1 1556905760
+-
+177-95-215-211.dsl.telesp.net.br
+0 1 0 0 1 1556890180
+-
+93-42-162-150.ip87.fastwebnet.it
+0 1 0 0 1 1556865532
+-
+zg-0326a-22.stretchoid.com
+0 1 0 0 1 1557026773
+-
+46.149.70.144.art-telecom.ru
+0 1 0 0 1 1556940720
+-
+192-222-226-218.qc.cable.ebox.net
+0 1 0 0 1 1556942933
+-
+134.209.124.239
+0 1 0 221 1 1556702961
+-
+ip-138.185.176.126.webcentertelecom.com.br
+0 1 0 0 1 1556764853
+-
+110.78.165.35
+0 1 0 0 1 1556884565
+-
+81.28.50.60
+0 1 0 0 1 1556889083
+-
+cpe-172-113-60-249.socal.res.rr.com
+0 109 0 23448 1 1556935305
+-
+59.36.132.222
+0 2 0 0 1 1556959626
+-
+host190.110.160.8.dynamic.pacificonet.cl
+0 1 0 0 1 1556713321
+-
+159.89.175.168
+0 1 0 0 1 1557096239
+-
+209.17.97.26
+0 1 0 0 1 1557009519
+-
+83-242-107-154.broadband.dominion.dn.ua
+0 1 0 0 1 1556705172
+-
+ec2-3-83-106-35.compute-1.amazonaws.com
+0 2 1 7025 1 1557031431
+/views/inicio/
+213-32-93-178.pool.ukrtel.net
+0 1 0 0 1 1556935416
+-
+167.99.73.165
+0 1 0 0 1 1557015237
+-
+178.62.238.123
+0 1 0 210 1 1557023190
+-
+61-219-11-153.hinet-ip.hinet.net
+0 2 0 0 2 1557017485
+-
+218.94.97.26
+0 4 0 930 1 1556800767
+-
+81.196.241.176
+0 1 0 0 1 1556992087
+-
+178-240-144-216.static.reverse.lstn.net
+0 1 0 0 0 0
+-
+31.184.180.223
+0 1 0 0 1 1557085647
+-
+cln-165-55.krasnet.dn.ua
+0 1 0 0 1 1556867520
+-
+217.113.17.226
+0 1 0 0 1 1556729464
+-
+siqes.net.48.95.103.in-addr.arpa
+0 1 0 0 1 1556975068
+-
+103.114.201.148
+0 1 0 0 1 1556917491
+-
+196.2.14.184
+0 1 0 0 1 1557085561
+-
+122-117-127-138.hinet-ip.hinet.net
+0 14 0 3108 1 1556922035
+-
+103.45.147.123
+0 15 4 29618 1 1556824646
+/views/inicio/
+scan-67.security.ipip.net
+0 2 0 0 2 1556963387
+-
+37.130.77.169
+0 1 0 0 1 1556980010
+-
+46.248.61.120
+0 1 0 0 1 1556877156
+-
+103.59.198.98
+0 1 0 0 1 1557056824
+-
+211.149.232.41
+0 1 0 216 1 1556669623
+-
+128.14.209.154
+0 1 0 225 0 0
+-
+68.183.215.115
+0 1 0 221 1 1556693942
+-
+190-39-21-162.dyn.dsl.cantv.net
+0 1 0 0 1 1556705817
+-
+170-244-220-27.user.gwtelecom.psi.br
+0 1 0 0 1 1556717110
+-
+128.14.209.242
+0 1 0 212 0 0
+-
+177-103-178-115.dsl.telesp.net.br
+0 1 0 0 1 1557009605
+-
+143-151-150-201.halleytelecom.com.br
+0 1 0 0 1 1556794328
+-
+adsl-60.37.6.184.tellas.gr
+0 1 0 0 1 1556945837
+-
+201-76-120-3.gtctelecom.net.br
+0 1 0 0 1 1556767764
+-
+202.152.41.154
+0 1 0 226 0 0
+-
+218.4.55.122
+0 3 0 642 1 1556867022
+-
+88.247.96.26.static.ttnet.com.tr
+0 1 0 0 1 1556985089
+-
+58.218.67.161
+0 1 0 208 1 1557121024
+-
+zg-0326a-58.stretchoid.com
+0 1 0 0 1 1556820281
+-
+2.188.36.60
+0 1 0 0 1 1556686530
+-
+177-102-228-176.dsl.telesp.net.br
+0 1 0 0 1 1556892489
+-
+91.108.45.149
+0 1 0 0 1 1556734708
+-
+zg-0301f-46.stretchoid.com
+0 1 0 0 1 1557114243
+-
+196.52.43.121.netsystemsresearch.com
+0 1 0 0 1 1556674026
+-
+178.62.220.59
+0 5 0 1131 1 1557047072
+-
+209.17.97.90
+0 1 0 0 1 1556741627
+-
+31.162-246-81.adsl-dyn.isp.belgacom.be
+0 1 0 226 1 1557055717
+-
+179-228-125-233.user.vivozap.com.br
+0 1 0 0 1 1557031320
+-
+84x244x13x195.dynamic.irkutsk.ertelecom.ru
+0 1 0 0 1 1556730588
+-
+122.224.158.196
+0 1 0 0 1 1557021461
+-
+ip98-171-23-130.ph.ph.cox.net
+0 109 0 23448 1 1557045255
+-
+static-adsl190-248-11-73.une.net.co
+0 126 42 211684 3 1556915450
+/views/diagnostico/new.php
+209.17.96.90
+0 1 0 0 1 1556928927
+-
+185.111.184.53
+0 1 0 0 1 1556880918
+-
+lpg-gw.wnet.ua
+0 1 0 0 1 1556886104
+-
+79.107.233.253
+0 1 0 0 1 1556999553
+-
+170.79.82.8
+0 1 0 0 1 1556867818
+-
+103.233.122.176
+0 1 0 0 1 1556970824
+-
+103.132.58.17
+0 1 0 0 1 1556841460
+-
+212.115.244.251
+0 1 0 0 1 1556747017
+-
+5.236.122.178
+0 1 0 0 1 1556894480
+-
+host.188.240.46.100.ntelecom.ro
+0 1 0 0 1 1557044604
+-
+170-123-158-51.rev.cloud.scaleway.com
+0 1 0 0 1 1556898684
+-
+dynamic-ip-1868022330.cable.net.co
+0 200 76 1029455 5 1557117494
+/views/diagnostico/new.php
+185.246.103.244
+0 1 0 0 1 1557005471
+-
+41.60.239.197
+0 1 0 0 1 1556933796
+-
+209.17.96.34
+0 1 0 0 1 1557084737
+-
+92.118.161.53.netsystemsresearch.com
+0 1 0 0 1 1556839320
+-
+47.93.112.231
+0 1 0 0 1 1556701083
+-
+ec2-34-220-116-59.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1556686137
+-
+210.60.110.4
+0 1 0 210 1 1556732383
+-
+186-103-149-218.static.tie.cl
+0 1 0 0 1 1556707025
+-
+202.21.127.202
+0 1 0 0 1 1556965551
+-
+41.191.205.205
+0 1 0 0 1 1556919876
+-
+tequilaboomboom.club
+0 1 0 226 1 1556782230
+-
+cns034.cactuspk.com
+0 1 0 0 1 1556941982
+-
+185.101.33.133
+0 1 0 213 1 1556860466
+-
+95.47.50.212
+0 1 0 0 1 1557115631
+-
+187.41.196.189
+0 1 0 0 1 1556839321
+-
+ip-175-158-53-51.cbn.net.id
+0 1 0 0 1 1556782008
+-
+190.9.129.80
+0 556 0 115369 1 1556717315
+-
+200-232-234-156.dsl.telesp.net.br
+0 2 0 0 1 1557106132
+-
+103.191-100-9.etapanet.net
+0 1 0 0 1 1557086448
+-
+154.48.227.20
+0 2 0 454 0 0
+-
+179-110-121-63.dsl.telesp.net.br
+0 1 0 0 1 1556710134
+-
+027.214.81.95.chtts.ru
+0 1 0 0 1 1556856600
+-
+14.79.9.96.sinet.com.kh
+0 1 0 0 1 1556823487
+-
+182.9.38.177.p4net.net.br
+0 1 0 0 1 1556918139
+-
+186-211-15-42-host.portalsat.net.br
+0 1 0 0 1 1556966924
+-
+185.104.106.72
+0 1 0 214 1 1556685636
+-
+71.6.232.4
+0 1 0 0 1 1556672212
+-
+177.105.229.8
+0 1 0 0 1 1556914089
+-
+193.232.106.88
+0 2 0 412 0 0
+-
+ppp-92-39-139-125.in-tel.ru
+0 1 0 0 1 1556918855
+-
+ip-64-184-39-229.ligtel.com
+0 1 0 0 1 1556985959
+-
+195.116.41.223
+0 1 0 0 1 1556669210
+-
+182.216.46.186.static.anycast.cnt-grms.ec
+0 1 0 0 1 1556844727
+-
+98-143-62-62.cst.watchcomm.net
+0 1 0 0 1 1556919328
+-
+ubuntu16202253.aspadmin.net
+0 1 0 0 1 1556834423
+-
+202.52.238.134
+0 1 0 0 1 1557102513
+-
+lputeaux-658-1-174-176.w92-154.abo.wanadoo.fr
+0 108 0 23448 1 1557052432
+-
+108-205-14-249.uvs.irvnca.sbcglobal.net
+0 1 0 0 1 1556677134
+-
+167.99.66.175
+0 1 0 221 1 1556696818
+-
+dinamic-tigo-191-95-32-207.tigo.com.co
+0 8 1 9817 1 1556807862
+/views/users/new.php
+37.29.43.154
+0 1 0 0 1 1557103510
+-
+78.179.170.251.dynamic.ttnet.com.tr
+0 1 0 0 1 1557019026
+-
+static-186-29-193-146.static.etb.net.co
+0 143 58 566222 4 1556986927
+/views/inicio/
+128.14.209.234
+0 2 0 450 0 0
+-
+116.196.20.37
+0 1 0 210 1 1556891311
+-
+201-92-47-222.dsl.telesp.net.br
+0 1 0 0 1 1556747790
+-
+68.183.105.109
+0 1 0 214 1 1556680360
+-
+187-101-56-234.dsl.telesp.net.br
+0 1 0 0 1 1557017399
+-
+191-193-131-165.user.vivozap.com.br
+0 1 0 0 1 1557040980
+-
+118.25.219.227
+0 1 0 210 1 1556841176
+-
+5.188.210.101
+0 1 0 206 1 1557010906
+-
+140.143.122.201
+0 565 0 116996 1 1556784672
+-
+132.232.57.56
+0 3 0 427 1 1557087623
+-
+dinamic-tigo-191-92-165-135.tigo.com.co
+0 381 177 3334991 5 1557113289
+/views/diagnostico/new.php
+109.200.249.182.pool.breezein.net
+0 1 0 0 1 1556849717
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+128.14.209.154
+0 1 0 225 0 0
+-
+58.218.67.161
+0 1 0 208 1 1557121024
+-
+zg-0301f-46.stretchoid.com
+0 1 0 0 1 1557114243
+-
+dynamic-ip-1868022330.cable.net.co
+0 84 36 508566 2 1557117494
+/views/diagnostico/new.php
+95.47.50.212
+0 1 0 0 1 1557115631
+-
+200-232-234-156.dsl.telesp.net.br
+0 2 0 0 1 1557106132
+-
+202.52.238.134
+0 1 0 0 1 1557102513
+-
+37.29.43.154
+0 1 0 0 1 1557103510
+-
+dinamic-tigo-191-92-165-135.tigo.com.co
+0 39 22 419996 1 1557113289
+/views/diagnostico/new.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://52.42.244.33/views/login/
+0 97
+http://52.42.244.33/views/login/index.php
+0 21
+http://52.42.244.33/views/diagnostico/new.php
+0 293
+http://52.42.244.33:80/upload/bank-icons/bank_16.png
+0 1
+http://52.42.244.33/phpmyadmin
+0 1
+http://52.42.244.33:80/public/index.php
+0 2
+http://52.42.244.33:80/FxCodeShell.jsp::
+0 1
+https://www.google.com/
+0 1
+- (Direct Request)
+0 1711
+http://52.42.244.33/views/inicio/
+0 108
+http://52.42.244.33/index.php
+0 3
+http://52.42.244.33:80/FxCodeShell.jsp
+0 1
+http://52.42.244.33/views/users/new.php
+0 134
+http://52.42.244.33:80
+0 1
+http://52.42.244.33/views/contact/new.php
+0 13
+http://52.42.244.33:80/FxCodeShell.jsp 
+0 1
+http://52.42.244.33:80/upload/bank-icons/bank-gh.jpg
+0 1
+http://52.42.244.33/css/estilos.css
+0 43
+http://52.42.244.33:80/public/hydra.php
+0 1
+http://52.42.244.33:80/FxCodeShell.jsp/
+0 1
+http://52.42.244.33/views/diagnostico/index.php
+0 61
+# End Of Table - referrers
+# -agents- 
+curl/7.35.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 83
+Mozilla/5.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+0 340
+HTTP Banner Detection (https://security.ipip.net)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 3
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 5
+Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36 (KHTML, live Gecko) Chrome/56.0.3112.71 Safari/537.32
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 477
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 406
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 70
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3602.2 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 13
+Mozilla/5.0 (Windows NT 6.1; rv:66.0) Gecko/20100101 Firefox/66.0
+0 338
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 43
+Go-http-client/1.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 83
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+0 68
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 12
+Mozilla/5.0 zgrab/0.x
+0 4
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+0 1
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+0 8
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0)
+0 398
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 1
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.13.1.0zlib/1.2.3 libidn/1.18 libssh2/1.2.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 10
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 25
+Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)
+0 15
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 2
+ZmEu
+0 17
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36
+0 1
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
