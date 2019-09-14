@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 13-09-2019 a las 00:24:28
+-- Tiempo de generación: 14-09-2019 a las 18:39:51
 -- Versión del servidor: 10.4.6-MariaDB
 -- Versión de PHP: 7.3.9
 
@@ -39,7 +39,9 @@ CREATE TABLE `area` (
 --
 
 INSERT INTO `area` (`idArea`, `nombreArea`, `fkID_ciudad`) VALUES
-(1, 'ZONA SUR', 1);
+(1, 'Bogota Norte', 1),
+(2, 'Bogota Centro', 1),
+(3, 'Bogota Sur', 1);
 
 -- --------------------------------------------------------
 
@@ -58,7 +60,8 @@ CREATE TABLE `ciudad` (
 --
 
 INSERT INTO `ciudad` (`idCiudad`, `nombreCiudad`, `fkID_departamento`) VALUES
-(1, 'Bogota', 1);
+(1, 'Bogota', 1),
+(2, 'Chia', 1);
 
 -- --------------------------------------------------------
 
@@ -76,7 +79,7 @@ CREATE TABLE `departamento` (
 --
 
 INSERT INTO `departamento` (`idDepartamento`, `nombreDepartamento`) VALUES
-(1, 'bogota');
+(1, 'Cundinamarca');
 
 -- --------------------------------------------------------
 
@@ -102,7 +105,23 @@ INSERT INTO `usuario` (`idUsuario`, `nombre`, `email`, `fkID_departamento`, `fkI
 (1, 'PRUEBA', 'correo@gmail.com', 1, 1, 1, 1),
 (2, 'ok', 'correo@gmail.com', 0, 0, 0, 1),
 (3, 'prueba 3', 'correo@gmail.com', 0, 0, 0, 1),
-(4, 'asdfas', 'correo@gmail.com', 0, 0, 0, 1);
+(4, 'asdfas', 'correo@gmail.com', 0, 0, 0, 1),
+(5, 'prueba', 'correo@gmail.com', 0, 0, 0, 1),
+(6, 'prueba', 'correo@gmail.com', 0, 0, 0, 1),
+(7, 'prueba1', 'correo@gmail.com', 0, 0, 0, 1),
+(8, 'prueba1', 'correo@gmail.com', 0, 0, 0, 1),
+(9, 'prueba2', 'correo@gmail.com', 1, 1, 1, 1),
+(10, 'prueba3', 'correo@gmail.com', 1, 1, 1, 1),
+(11, 'prueba', 'correo@gmail.com', 1, 1, 1, 1),
+(12, 'prueba', 'correo@gmail.com', 1, 1, 1, 1),
+(13, 'prueba1', 'correo@gmail.com', 1, 1, 1, 1),
+(14, 'prueba1', 'correo@gmail.com', 1, 1, 1, 1),
+(15, 'prueba1', 'correo@gmail.com', 1, 1, 1, 1),
+(16, 'prueba', 'correo@gmail.com', 1, 1, 1, 1),
+(17, 'prueba1', 'kronossolucionestic@gmail.com', 1, 1, 1, 1),
+(18, 'prueba1', 'kronossolucionestic@gmail.com', 1, 1, 1, 1),
+(19, 'prueba1', 'kronossolucionestic@gmail.com', 1, 1, 1, 1),
+(20, 'PRUEBA', 'correo@gmail.com', 1, 1, 1, 1);
 
 --
 -- Índices para tablas volcadas
@@ -140,13 +159,13 @@ ALTER TABLE `usuario`
 -- AUTO_INCREMENT de la tabla `area`
 --
 ALTER TABLE `area`
-  MODIFY `idArea` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Id del area', AUTO_INCREMENT=2;
+  MODIFY `idArea` int(11) NOT NULL AUTO_INCREMENT COMMENT 'Id del area', AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT de la tabla `ciudad`
 --
 ALTER TABLE `ciudad`
-  MODIFY `idCiudad` int(4) NOT NULL AUTO_INCREMENT COMMENT 'Id de la ciudad', AUTO_INCREMENT=2;
+  MODIFY `idCiudad` int(4) NOT NULL AUTO_INCREMENT COMMENT 'Id de la ciudad', AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT de la tabla `departamento`
@@ -158,7 +177,7 @@ ALTER TABLE `departamento`
 -- AUTO_INCREMENT de la tabla `usuario`
 --
 ALTER TABLE `usuario`
-  MODIFY `idUsuario` int(10) NOT NULL AUTO_INCREMENT COMMENT 'Id del usuario', AUTO_INCREMENT=5;
+  MODIFY `idUsuario` int(10) NOT NULL AUTO_INCREMENT COMMENT 'Id del usuario', AUTO_INCREMENT=21;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
