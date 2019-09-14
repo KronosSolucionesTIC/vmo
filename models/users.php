@@ -28,6 +28,17 @@ class Users
         return $data;
     }
 
+    //Trae todos los departamentos
+    public function getDpto()
+    {
+        $query  = "SELECT * FROM departamento";
+        $result = mysqli_query($this->link, $query);
+        $data   = array();
+        while ($data[] = mysqli_fetch_assoc($result));
+        array_pop($data);
+        return $data;
+    }
+
     //Trae todos CIUU
     public function getCiudad()
     {
@@ -50,10 +61,10 @@ class Users
         return $data;
     }
 
-    //Trae todos los tamaños
-    public function getTamano()
+    //Trae la ciudad por departamento
+    public function getCiudadID($idDepartamento)
     {
-        $query  = "SELECT * FROM tb_typecomp";
+        $query  = "SELECT * FROM ciudad WHERE fkID_departamento = " . $idDepartamento;
         $result = mysqli_query($this->link, $query);
         $data   = array();
         while ($data[] = mysqli_fetch_assoc($result));
@@ -61,21 +72,10 @@ class Users
         return $data;
     }
 
-    //Trae todos los departamentos
-    public function getDpto()
+    //Trae el area por Ciudad
+    public function getAreaID($idCiudad)
     {
-        $query  = "SELECT * FROM departamento";
-        $result = mysqli_query($this->link, $query);
-        $data   = array();
-        while ($data[] = mysqli_fetch_assoc($result));
-        array_pop($data);
-        return $data;
-    }
-
-    //Trae todos los municipios
-    public function getMuni()
-    {
-        $query  = "SELECT * FROM tb_municip";
+        $query  = "SELECT * FROM area WHERE fkID_Ciudad= " . $idCiudad;
         $result = mysqli_query($this->link, $query);
         $data   = array();
         while ($data[] = mysqli_fetch_assoc($result));

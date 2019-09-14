@@ -6,7 +6,7 @@ $users = new Users();
 //Request: creacion de nuevo usuario
 if (isset($_POST['registrar'])) {
     if ($users->newUser($_POST)) {
-        header('location: ../views/users/index.php?page=users');
+        header('location: ../views/users/index.php?page=list');
     }
 } else {
     header('location: ../views/users/new.php?page=new&error=true');
